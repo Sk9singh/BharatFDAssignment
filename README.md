@@ -16,8 +16,8 @@ This project is developed as part of an evaluation for **BHARATFD**. It is a bas
 
 ### ** Clone the Repository**  
 ```bash
-git clone https://github.com/Harshitaaverma/BharatFDFAQ.git
-cd BharatFDFAQ
+git clone https://github.com/Sk9singh/BharatFDAssignment.git
+cd BharatFDASSIGNMENT
 
  Install Dependencies
 
